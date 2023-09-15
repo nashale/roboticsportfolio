@@ -7,3 +7,9 @@ The chassis design that we chose is designed for speed. This bot will include ge
 Here is a general build of our chassis. Again it will be mainly speed based which the slim build shows.
 
 ![DiagramOfChassis](https://github.com/nashale/roboticsportfolio/blob/main/images/diagram.jpg?raw=true)
+
+![Bot1](https://github.com/nashale/roboticsportfolio/blob/main/images/bot1.jpg?raw=true)
+
+![Bot2](https://github.com/nashale/roboticsportfolio/blob/main/images/bot2.jpg?raw=true)
+
+![Bot3](https://github.com/nashale/roboticsportfolio/blob/main/images/bot3.jpg?raw=true)
