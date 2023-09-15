@@ -8,6 +8,16 @@ Here is a general build of our chassis. Again it will be mainly speed based whic
 
 ![DiagramOfChassis](https://github.com/nashale/roboticsportfolio/blob/main/images/diagram.jpg?raw=true)
 
+## Build
+Slim, long rectangular build using gear ratios & a two gear transmission.
+
+We will use a two gear transmission, first gear for torque and acceleration, second gear for maximum speed.
+
+* 3-4 Motors
+* ~15 Axels
+
+# Chasis
+
 ![Bot1](https://github.com/nashale/roboticsportfolio/blob/main/images/bot1.jpg?raw=true)
 
 ![Bot2](https://github.com/nashale/roboticsportfolio/blob/main/images/bot2.jpg?raw=true)
