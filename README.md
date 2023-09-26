@@ -16,6 +16,12 @@ We will use a two gear transmission, first gear for torque and acceleration, sec
 * 3-4 Motors
 * ~15 Axels
 
+# Object Manipulator
+
+For our object manipulator we are going to use a ramp. This ramp will serve two purposes, it will 1) be able to pick up objects and 2) remove obstructing obstacles from the path in front of the chasis.
+
+![rampDesign](https://github.com/nashale/roboticsportfolio/blob/main/images/rampdesign.jpg?raw=true)
+
 # Chasis
 
 ![Bot1](https://github.com/nashale/roboticsportfolio/blob/main/images/bot1.jpg?raw=true)
